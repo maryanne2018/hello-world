@@ -1,2 +1,3 @@
 # hello-world
-just other repository
+hi Humans!
+Mary Anne here, I like design and Layout.
